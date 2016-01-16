@@ -1,0 +1,36 @@
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Form1.resources
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Properties.Resources.resources
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csproj.GenerateResource.Cache
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.pdb
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.exe
+c:\users\vikc\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.pdb
+C:\Users\VikC\documents\visual studio 2010\Projects\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.exe
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.pdb
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.pdb
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Form1.resources
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Properties.Resources.resources
+C:\Users\Faisal\Desktop\OCR\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csproj.GenerateResource.Cache
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.exe
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.pdb
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.pdb
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csprojResolveAssemblyReference.cache
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Form1.resources
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Properties.Resources.resources
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csproj.GenerateResource.Cache
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe.config
+E:\Practice\Visual C#\OCR - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\MySql.Data.dll
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe.config
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.exe
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.pdb
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.exe
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\Optical_Character_Reader.pdb
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\bin\Debug\MySql.Data.dll
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csprojResolveAssemblyReference.cache
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Form1.resources
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.Properties.Resources.resources
+E:\Practice\Visual C#\OCR - Copy - Copy\Optical_Character_Reader\Optical_Character_Reader\Optical_Character_Reader\obj\x86\Debug\Optical_Character_Reader.csproj.GenerateResource.Cache
